@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953886773928",
+    "project_id": "firebase-aminulaust"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953886773928:android:06ef9ad052d13ae9",
+        "android_client_info": {
+          "package_name": "aminulaust.com.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953886773928-heasqfhfah1f4tmvmvnsree7b2dvjs8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aminulaust.com.googlelogin",
+            "certificate_hash": "aef26aa9206046d2c3ba5f633c5641bc38cfc823"
+          }
+        },
+        {
+          "client_id": "953886773928-onduhnsc51g5jso6j8fvlsvr7q9qjkkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvc8YV0V-MhoSic7oKIgR1S6Or1ZbEe_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
